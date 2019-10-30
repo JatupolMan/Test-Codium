@@ -1,0 +1,2 @@
+1.run "redis-server.exe"
+2.run "run.py"
